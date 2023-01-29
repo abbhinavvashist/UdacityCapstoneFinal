@@ -1,3 +1,4 @@
+Click
+Jinja2
 pylint
-pip
-Flask==1.0.2
+Flask
